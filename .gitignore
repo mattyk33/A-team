@@ -2,9 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
+<<<<<<< HEAD
 
 config.py
 
+=======
+config.py
+>>>>>>> f2d6b458119430ba2ef33bc224a4d090db950c84
 # C extensions
 *.so
 
