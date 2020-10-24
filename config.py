@@ -1,2 +1,4 @@
 
 g_key = "AIzaSyCKu4rUXFRv21ML5to3hO7_Cld8XjBX1Rs"
+
+outscraper_key = "YXV0aDB8NWY5NDUzMGUyN2YyNjgwMDZlNTk5NWVlfDIzYzVlNTBiMTM"
