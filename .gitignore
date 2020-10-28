@@ -1,8 +1,13 @@
+config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+config.py
+>>>>>>> cs/branch
 
 config.py
 
